@@ -1,0 +1,35 @@
+  [
+    {
+      "id": 1,
+      "titulo": "Anunci del pròxim àlbum d'Amaia",
+      "srcimg": "/src/assets/imatgenegre.jpg",
+      "alt": "Portada del nou album d'Amaia, on apareix asseguda al cantó d'un llit. S'aprecia a veure l'il·usió optica de la seva cara en un pla d'aprop.",
+      "texto": "Amaia ha anunciat la data del seu 3er àlbum 'Si Abro Los Ojos No Es Real'",
+      "url": "https://open.spotify.com/prerelease/1clqBF0GAySAxArkqLSdy4?si=32ec06c57ee841e9"
+    },
+    {
+      "id": 2,
+      "titulo": "Brat anuncia el seu nou àlbum",
+      "srcimg": "/src/assets/imatgenegre.jpg",
+      "alt": "Portada de l'àlbum Brat, amb disseny minimalista i colors vius.",
+      "texto": "Charli XCX ha anunciat el seu esperat àlbum, que fusiona sons electrònics i introspectius per crear una experiència única. El disc sortirà en breu.",
+      "url": "https://open.spotify.com/intl-es/album/2lIZef4lzdvZkiiCzvPKj7?si=-Zb9PVy_SHqlUjoSp066Gg"
+    },
+    {
+      "id": 3,
+      "titulo": "'Hit Me Hard and Soft' fa fúria",
+      "srcimg": "/src/assets/imatgenegre.jpg",
+      "alt": "Portada de l'àlbum Hit Me Hard and Soft, amb una imatge abstracta que transmet intensitat emocional.",
+      "texto": "L'artista presenta el seu nou àlbum 'Hit Me Hard and Soft', una mescla de pop experimental que desafia les convencions del gènere. No et perdis el llançament!",
+      "url": "https://open.spotify.com/intl-es/album/7aJuG4TFXa2hmE4z1yxc3n?si=DtFoo8fUSz-Y5qs18lLysA"
+    },
+    {
+      "id": 4,
+      "titulo": "FKA Twigs revela el seu àlbum més personal, EUSEXUA",
+      "srcimg": "/src/assets/imatgenegre.jpg",
+      "alt": "Portada de l'àlbum Eusexua, amb una fotografia evocadora que simbolitza una cerca interior.",
+      "texto": "Twigs acaba de llançar el seu nou àlbum, una exploració sonora profunda que fusiona electrònica i jazz, mostrant una nova faceta artística molt personal.",
+      "url": "https://open.spotify.com/prerelease/7EXYEKsndkvd5QmRfipMoE?si=3b0bd4dc7dc24c6b"
+    }
+  ]
+  
