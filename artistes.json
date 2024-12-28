@@ -2,7 +2,6 @@
     {
       "id": 1,
       "titulo": "Anunci del pròxim àlbum d'Amaia",
-      "srcimg": "/imatgenegre.jpg",
       "alt": "Portada del nou album d'Amaia, on apareix asseguda al cantó d'un llit. S'aprecia a veure l'il·usió optica de la seva cara en un pla d'aprop.",
       "texto": "Amaia ha anunciat la data del seu 3er àlbum 'Si Abro Los Ojos No Es Real', que estarà disponible 31 de gener de l'any que ve.",
       "url": "https://open.spotify.com/prerelease/1clqBF0GAySAxArkqLSdy4?si=32ec06c57ee841e9"
@@ -10,7 +9,6 @@
     {
       "id": 2,
       "titulo": "Brat anuncia el seu nou àlbum",
-      "srcimg": "/src/assets/imatgenegre.jpg",
       "alt": "Portada de l'àlbum Brat, amb disseny minimalista i colors vius.",
       "texto": "Charli XCX ha anunciat el seu esperat àlbum, que fusiona sons electrònics i introspectius per crear una experiència única. El disc sortirà en breu.",
       "url": "https://open.spotify.com/intl-es/album/2lIZef4lzdvZkiiCzvPKj7?si=-Zb9PVy_SHqlUjoSp066Gg"
